@@ -1,0 +1,13 @@
+This is a super important source code file. The whole company is relying on it.
+
+If anything changes in here, everything will break!
+
+Also, please remember to check back at https://developergym.com for on-going tech projects and other articles related to the software development industry.
+
+Console.WriteLine("Hello World!");
+
+cout << "Hey there!";
+
+echo "This is really important";
+
+alert("How do you feel about pop ups?")
