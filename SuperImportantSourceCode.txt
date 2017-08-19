@@ -8,6 +8,6 @@ Console.WriteLine("Hello World!");
 
 cout << "Hey there!";
 
-echo "This is really important";
+echo "This is really important, everyone should learn to code!";
 
 alert("How do you feel about pop ups?")
